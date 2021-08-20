@@ -6,4 +6,4 @@ This repository contains C++ code that implements a functionality to horizontall
 
 ## Usage
 
-A custom TreeNode class is implemented. Build a tree and call the print_tree function as demonstrated in tests.cpp.
+A custom TreeNode class is implemented. Build a tree and call the print_tree function as demonstrated in [tests.cpp](tests.cpp).
