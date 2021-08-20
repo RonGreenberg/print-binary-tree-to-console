@@ -1,2 +1,4 @@
-# print-binary-tree-to-console
-Printing a binary tree to console in C++.
+# Print Binary Trees to Console.
+
+This repository contains C++ code that implements a functionality to horizontally print a binary tree to console as follows:
+
